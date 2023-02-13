@@ -201,4 +201,4 @@ Publish your container on your local repository
 sudo docker push 127.0.0.1:5000/weather
 ```
 
-### That's all folks!
+### That's all folks.
